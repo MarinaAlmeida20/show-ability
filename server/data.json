@@ -1,0 +1,16 @@
+[
+    {
+        "id" : 1,
+        "moduleName": "Responsive Web Development",
+        "mainProject": "Karma Store Page",
+        "assignments": [
+            {"name": "Bikes for Refugees",
+             "url": ""
+            },
+             {
+            "name":"Cakes Co webpage",
+            "url": ""
+             }
+          ]
+    }
+]
