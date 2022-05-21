@@ -1,16 +1,17 @@
 [
-    {
-        "id" : 1,
-        "moduleName": "Responsive Web Development",
-        "mainProject": "Karma Store Page",
-        "assignments": [
-            {"name": "Bikes for Refugees",
-             "url": ""
-            },
-             {
-            "name":"Cakes Co webpage",
-            "url": ""
-             }
-          ]
-    }
+  {
+    "id": 1,
+    "moduleName": "Responsive Web Development",
+    "mainProject": {
+      "name": "Karma Store Page",
+      "url": ""
+    },
+    "assignments": [
+      { "name": "Bikes for Refugees", "url": "" },
+      {
+        "name": "Cakes Co webpage",
+        "url": ""
+      }
+    ]
+  }
 ]
