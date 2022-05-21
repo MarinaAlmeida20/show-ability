@@ -1,7 +1,8 @@
 import React from "react";
+import Selection from "./Selection";
 
 function App() {
-  return <h1>Zombies test...</h1>;
+  return <Selection />;
 }
 
 export default App;
