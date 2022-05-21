@@ -1,0 +1,19 @@
+.home {
+  width: 100%;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.data_cont {
+  width: 100%;
+  display: flex;
+  justify-content: space-evenly;
+}
+.summery {
+  margin: 1em auto;
+  font-size: 1.2rem;
+  padding: 1em;
+  text-align: center;
+  font-weight: 800;
+}

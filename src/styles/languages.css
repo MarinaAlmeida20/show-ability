@@ -1,0 +1,11 @@
+.langs_cont {
+  width: 100%;
+  padding: 1em;
+  text-align: center;
+  background: rgb(16, 15, 15);
+  color: wheat;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  font-size: 1rem;
+}

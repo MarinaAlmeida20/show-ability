@@ -1,8 +1,7 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
 import App from "./componenets/App";
-
-<link href="selection.css" rel="stylesheet" />;
+import "./styles/index.css";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(<App />);
