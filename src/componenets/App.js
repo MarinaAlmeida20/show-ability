@@ -1,7 +1,11 @@
 import React from "react";
+import Home from "./Home";
 
 function App() {
-  return <h1>Zombies test...</h1>;
+  return <Home></Home>;
+
 }
+
+
 
 export default App;
