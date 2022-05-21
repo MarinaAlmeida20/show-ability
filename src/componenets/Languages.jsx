@@ -1,26 +1,22 @@
 import React from "react";
-
+import "../styles/languages.css";
 function Languages({ lang }) {
   return (
     lang && (
-      <div>
-        return (
-        <div>
-          <p>Module Name: {lang.moduleName}</p>
-          <p>
-            URL: <a href={lang.mainProject.url}>Github link</a>
-          </p>
-          <ul>
-            {lang.assignments.map((el) => {
-              return (
-                <li>
-                  <a href={el.url}>{el.name}</a>
-                </li>
-              );
-            })}
-          </ul>
-        </div>
-        );
+      <div className="langs_cont">
+        <p>Module Name: {lang.moduleName}</p>
+        <p>
+          URL: <a href={lang.mainProject.url}>Github link</a>
+        </p>
+        <ul>
+          {lang.assignments.map((el) => {
+            return (
+              <li>
+                <a href={el.url}>{el.name}</a>
+              </li>
+            );
+          })}
+        </ul>
       </div>
     )
   );

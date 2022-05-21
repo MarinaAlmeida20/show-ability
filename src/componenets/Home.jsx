@@ -39,13 +39,16 @@ const Home = () => {
     <article className="home">
       {show && <Preloader></Preloader>}
       <Header></Header>
-      <h2 className="summery">
-        Hello CYF trainees, click on the buttons below to learn about what
-        London8 has learnt
-      </h2>
-      <article className="data_cont">
-        <Selection id={id} setId={setId} data={data}></Selection>
-        <Languages lang={lang}></Languages>
+
+      <article>
+        <h2 className="summery">
+          Hello CYF trainees, click on the buttons below to learn about what
+          London8 has learnt
+        </h2>
+        <article className="data_cont">
+          <Selection id={id} setId={setId} data={data}></Selection>
+          <Languages lang={lang}></Languages>
+        </article>
       </article>
 
       <Footer></Footer>

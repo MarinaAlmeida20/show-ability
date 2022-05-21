@@ -1,11 +1,11 @@
 import React from "react";
-
+import "../styles/selection.css";
 function Selection({ id, setId, data }) {
   return (
     data && (
-      <div>
+      <div className="selection_cont">
         {data.map((module) => (
-          <button onClick={() => setId(module.id)}>{module.moduleName}</button>
+          <h3 onClick={() => setId(module.id)}>{module.moduleName}</h3>
         ))}
       </div>
     )
