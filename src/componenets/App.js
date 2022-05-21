@@ -1,11 +1,9 @@
 import React from "react";
-import JsonFile from "./JsonFile"
+import Home from "./Home";
 
 function App() {
-  return <>
-    <h1>Marina</h1>
-    <JsonFile />
-  </>
+  return <Home></Home>;
+
 }
 
 

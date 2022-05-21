@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "moduleName": "Responsive Web Development",
+    "mainProject": {
+      "name": "Karma Store Page",
+      "url": "https://github.com/CodeYourFuture/HTML-CSS-Module-Project/pulls"
+    },
+    "assignments": [
+      {
+        "name": "Bikes for Refugees",
+        "url": "https://github.com/CodeYourFuture/bikes-for-refugees/pulls"
+      },
+      {
+        "name": "Cakes Co webpage",
+        "url": "https://github.com/CodeYourFuture/HTML-CSS-Coursework-Week3/pulls"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "moduleName": "Java Scipt",
+    "mainProject": {
+      "name": "TV Show Project",
+      "url": ""
+    },
+    "assignments": [
+      {
+        "name": "JS Challenges",
+        "url": "https://github.com/CodeYourFuture/JavaScript-Core-3-Coursework-Week2/pulls"
+      },
+      {
+        "name": "JS Exercises",
+        "url": "https://github.com/CodeYourFuture/JavaScript-Core-1-Coursework-Week3-London8/pulls"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "moduleName": "React",
+    "mainProject": {
+      "name": "CYF Hotel",
+      "url": "https://github.com/CodeYourFuture/cyf-hotel-react/pulls"
+    },
+    "assignments": [
+      {
+        "name": "React Challenges",
+        "url": "https://github.com/CodeYourFuture/cyf-react-challenges/pulls"
+      },
+      {
+        "name": "Prepare for the next class",
+        "url": "https://shiffman.net/a2z/server-node/"
+      },
+      {
+        "name": "FreeCodeCamp Practice",
+        "url": "https://www.freecodecamp.org/learn/front-end-development-libraries/react/"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "moduleName": "Node",
+    "mainProject": {
+      "name": "Quote Server API Project",
+      "url": "https://github.com/CodeYourFuture/node-challenge-quote-server/pulls"
+    },
+    "assignments": [
+      {
+        "name": "Challenges (Stretch)",
+        "url": "https://github.com/CodeYourFuture/cyf-node-challenges/pulls"
+      },
+      {
+        "name": "Debugging Practice",
+        "url": "https://glitch.com/~debugging-practice1"
+      },
+      {
+        "name": "Wordle (Stretch)",
+        "url": "https://github.com/CodeYourFuture/wordle-clone-example"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "moduleName": "DevOps",
+    "mainProject": {
+      "name": "DevOps",
+      "url": "https://github.com/CodeYourFuture/JavaScript-Core-3-Classwork-Week4-London8/"
+    },
+    "assignments": [
+      {
+        "name": "Run unit tests on Github",
+        "url": "https://github.com/CodeYourFuture/JavaScript-Core-3-Classwork-Week4-London8/"
+      },
+      {
+        "name": "DevOps Basic I",
+        "url": ""
+      },
+      {
+        "name": "DevOps Basic III",
+        "url": "https://github.com/CodeYourFuture/DevOps-Basics-Lesson-3-London8"
+      },
+      {
+        "name": "DevOps Advanced I - Docker",
+        "url": ""
+      },
+      {
+        "name": "DevOps Advanced II - More Docker",
+        "url": ""
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "moduleName": "PD Body",
+    "mainProject": {
+      "name": "PD",
+      "url": ""
+    },
+    "assignments": [
+      {
+        "name": "Prepare a 3 minute presentation (PD)",
+        "url": ""
+      },
+      {
+        "name": "Create 3 SMART PD goals",
+        "url": ""
+      },
+      {
+        "name": "PD assignment - writing workshop",
+        "url": ""
+      }
+    ]
+  }
+]
